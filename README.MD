@@ -1,13 +1,3 @@
-1. git clone https://github.com/muhakbarcom/test-eigen-backend-express-swagger.git
-2. cd ./test-eigen-backend-express-swagger
-   npm install
-   setup configuration database on ./config/config.json
-   npm run sec-db-create
-   npm run sec-migrate
-   npm run sec-seed-all
-   npm run start
-   open in browser http://localhost:3000
-
 # Test Eigen Backend Express Swagger
 
 Berikut adalah langkah-langkah untuk mengatur dan menjalankan proyek ini:
